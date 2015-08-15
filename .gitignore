@@ -1,0 +1,12 @@
+/[abd-z0-9]*
+/c[a-np-z0-9]*
+/co[a-ln-z0-9]*
+/com[a-z0-9]*
+/com/[ac-z0-9]*
+/com/b[a-hj-z0-9]*
+/com/bi[a-fh-z0-9]*
+/com/big[a-y0-9]*
+/com/bigz[a-gi-z0-9]*
+/com/bigzh[b-z0-9]*
+/com/bigzha[a-np-z0-9]*
+/com/bigzhao[a-np-z0-9]*
