@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 21 20:23:00 SGT 2015
+FileDecoder-1.0-SNAPSHOT.jar>=
+FileDecoder-1.0-SNAPSHOT.pom>=
+FileDecoder-1.0-SNAPSHOT-sources.jar>=
