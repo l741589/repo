@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.bigzhao</groupId>
-  <artifactId>ZFileDesc</artifactId>
+  <artifactId>xml2axml</artifactId>
   <versioning>
     <versions>
-      <version>1.1-SNAPSHOT</version>
+      <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20150921123401</lastUpdated>
+    <lastUpdated>20151004122457</lastUpdated>
   </versioning>
 </metadata>
